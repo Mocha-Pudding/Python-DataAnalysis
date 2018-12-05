@@ -20,8 +20,15 @@
 │    │          └──  CH01科学计算工具：Numpy_课程作业答案.ipynb
 │    │
 │    ├── CH02数据分析工具：Pandas
-│    │    ├── 
-│    │    └── 
+│    │    ├── .ipynb_checkpoints
+│    │    ├── 【【个人笔记】CH02数据分析工具：Pandas_Part01.ipynb
+│    │    ├── 【个人笔记】CH02数据分析工具：Pandas_课程作业.ipynb
+│    │    └── 参考代码
+│    │          ├──  .ipynb_checkpoints
+│    │          ├──  CH02数据分析工具：Pandas__Part01.ipynb
+│    │          ├──  CH02数据分析工具：Pandas__Part02.ipynb
+│    │          ├──  CH02数据分析工具：Pandas__Part03.ipynb
+│    │          └──  CH02数据分析工具：Pandas_课程作业答案.ipynb
 │    │
 │    ├── CH03图标绘制工具：Matplotlib
 │    │    ├── 
