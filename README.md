@@ -92,4 +92,27 @@
 └─── END
 ```
 
+补充说明：</br>
+1.关于matplotlib颜色表</br>
+可参照网站：https://stackoverflow.com/questions/22408237/named-colors-in-matplotlib
+</br>
+</br>
+2.关于matplotlib中文问题</br>
+方法一：</br>
+（平台：windows,python3.5）</br>
+1）：打开设置文件，输入以下代码会显示matplotlibrc文件的地址</br>
+import matplotlib </br>
+matplotlib.matplotlib_fname() </br>
+2）：修改matplotlibrc文件</br>
+将文件中的#font.family: sans-serif去掉注释，修改为font.family: Microsoft YaHei </br>
+3）：重启jupyter notebook可显示为中文</br>
+</br>
+方法二：加上两行代码</br>
+plt.rcParams['font.sans-serif']=['SimHei'] </br>
+plt.rcParams['axes.unicode_minus']=False </br>
+
+
+
+
+
 
