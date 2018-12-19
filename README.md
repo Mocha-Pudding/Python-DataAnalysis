@@ -74,6 +74,15 @@
 │    │
 │    └── END 
 │
+├─── Demo_BecomeALeader 
+│    ├── 数据分析Demo-成为领导人的秘诀
+│    │    ├── .ipynb_checkpoints
+│    │    ├── 数据资料
+│    │    ├── .ipynb_checkpoints
+│    │    └── 【个人笔记】F02_案例一_成为领导的秘诀.ipynb
+│    │
+│    └── END 
+│
 ├─── Python数据分析职业发展路线.jpg
 │
 ├─── .gitattributes
