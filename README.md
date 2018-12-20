@@ -78,6 +78,8 @@
 │    ├── 数据分析Demo-成为领导人的秘诀
 │    │    ├── .ipynb_checkpoints
 │    │    ├── 数据资料
+│    │    ├── matplotlib颜色表lFZum.png
+│    │    ├── matplotlib颜色表lnCk6u.jpg
 │    │    ├── .ipynb_checkpoints
 │    │    └── 【个人笔记】F02_案例一_成为领导的秘诀.ipynb
 │    │
@@ -110,9 +112,6 @@ matplotlib.matplotlib_fname() </br>
 方法二：加上两行代码</br>
 plt.rcParams['font.sans-serif']=['SimHei'] </br>
 plt.rcParams['axes.unicode_minus']=False </br>
-
-
-
 
 
 
