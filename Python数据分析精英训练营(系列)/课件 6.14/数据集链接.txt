@@ -1,2 +1,12 @@
-给大家补充个梁老师的数据集链接：https://pan.baidu.com/s/1jxvBxHwFwv962meJOpZpyA 
+﻿给大家补充个梁老师的数据集链接：https://pan.baidu.com/s/1jxvBxHwFwv962meJOpZpyA 
 提取码：w97y
+
+
+Day1.牛刀小试——足球运动员分析
+http://view.csslcloud.net/api/view/callback?roomid=3BF7EEFE8E9154589C33DC5901307461&userid=7488FF1B7810DE53&liveid=EE6F4F4FF27EA8E9&recordid=03C2FF800A60ED67&autoLogin=true&viewername=97163&viewertoken=818809
+
+Day2.循序渐进——AQI分析与预测
+http://view.csslcloud.net/api/view/callback?roomid=3BF7EEFE8E9154589C33DC5901307461&userid=7488FF1B7810DE53&liveid=DAA7D17076C8F980&recordid=58535EF4C3A5682F&autoLogin=true&viewername=97163&viewertoken=818809
+
+Day3.登堂入室——文本分析实现新闻推荐
+http://view.csslcloud.net/api/view/callback?roomid=3BF7EEFE8E9154589C33DC5901307461&userid=7488FF1B7810DE53&liveid=C40E46259647168A&recordid=77786B01E8BEDE90&autoLogin=true&viewername=97163&viewertoken=818809
