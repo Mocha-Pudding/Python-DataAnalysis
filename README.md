@@ -87,7 +87,7 @@
 │
 ├─── Matplotlib 
 │    ├── 利用Matplotlib绘制图形
-│    │    └── Sandian_demo
+│    │    ├── Sandian_demo
 │    │    │    ├── 01.csv
 │    │    │    ├── matplotlib_test.ipynb
 │    │    │    └── sandian.py
@@ -98,6 +98,21 @@
 │    │    ├── 
 │    │    │
 │    │    └──
+│    │
+│    └── END 
+│
+├─── Python数据分析精英训练营(系列) 
+│    ├── 利用Matplotlib绘制图形
+│    │    ├── Sandian_demo
+│    │    │    ├── 01.csv
+│    │    │    └── sandian.py
+│    │    ├── 
+│    │    │    ├── 01.csv
+│    │    │    └── sandian.py
+│    │    │
+│    │    └── Python数据分析精英训练营(系列)
+│    │         ├── 01.csv
+│    │         └── sandian.py
 │    │
 │    └── END 
 │
