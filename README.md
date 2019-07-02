@@ -1,4 +1,4 @@
-# Python-DataAnalysis
+# :cactus:Python-DataAnalysis
 </br>
 <h1 align="center">:whale:Python数据分析学习记录:whale:</h></br>
 </br>
@@ -102,17 +102,16 @@
 │    └── END 
 │
 ├─── Python数据分析精英训练营(系列) 
-│    ├── 利用Matplotlib绘制图形
-│    │    ├── Sandian_demo
-│    │    │    ├── 01.csv
-│    │    │    └── sandian.py
-│    │    ├── 
-│    │    │    ├── 01.csv
-│    │    │    └── sandian.py
-│    │    │
-│    │    └── Python数据分析精英训练营(系列)
-│    │         ├── 01.csv
-│    │         └── sandian.py
+│    ├── 三个案例来了解数据分析基本流程和步骤，熟悉真实应用场景
+│    │    ├── 课件 6.12 - 小试牛刀——足球运动员分析
+│    │    │    ├── 
+│    │    │    └── 
+│    │    ├── 课件 6.13 - 循序渐进——AQI分析与预测
+│    │    │    ├── 
+│    │    │    └── 
+│    │    └── 课件 6.14 - 登堂入室——文本分析实现新闻推荐
+│    │         ├── 
+│    │         └── 
 │    │
 │    └── END 
 │
