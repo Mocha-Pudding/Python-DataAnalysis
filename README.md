@@ -10,6 +10,18 @@
 ## 简易结构
 学习路线
 ```
+├─── CLASSDATA_Chapter00基础语言
+│    └── CLASSDATA_Chapter00基础语言练习
+│         ├── .ipynb_checkpoints
+│         ├── CLASSDATA_Chapter00基础语言练习.ipynb
+│         └── 参考代码
+│               ├──  .ipynb_checkpoints
+│               ├──  CH06函数.ipynb
+│               ├── 
+│               ├── 
+│               ├── 
+│               └──  
+│     
 ├─── CLASSDATA_Chapter01重点工具：数据解析
 │    ├── CH01科学计算工具：Numpy
 │    │    ├── .ipynb_checkpoints
