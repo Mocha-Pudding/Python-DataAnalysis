@@ -15,12 +15,12 @@
 │         ├── .ipynb_checkpoints
 │         ├── CLASSDATA_Chapter00基础语言练习.ipynb
 │         └── 参考代码
-│               ├──  .ipynb_checkpoints
-│               ├──  CH06函数.ipynb
-│               ├── 
-│               ├── 
-│               ├── 
-│               └──  
+│               ├── .ipynb_checkpoints
+│               ├── CH06函数.ipynb
+│               ├── CH07模块与包.ipynb
+│               ├── CH08数据读写.ipynb
+│               ├── 项目01商铺数据加载及存储.ipynb
+│               └── 项目02基于Python的算法函数创建
 │     
 ├─── CLASSDATA_Chapter01重点工具：数据解析
 │    ├── CH01科学计算工具：Numpy
@@ -43,8 +43,9 @@
 │    │          └──  CH02数据分析工具：Pandas_课程作业答案.ipynb
 │    │
 │    ├── CH03图标绘制工具：Matplotlib
-│    │    ├── 
-│    │    └── 
+│    │    ├── CH03图表绘制工具：Matplotlib__Part01.ipynb
+│    │    ├── CH03图表绘制工具：Matplotlib__Part02.ipynb
+│    │    └── CH03图表绘制工具：Matplotlib__Part03.ipynb
 │    │
 │    ├── CH04空间分析工具：GIS
 │    │    ├── 
