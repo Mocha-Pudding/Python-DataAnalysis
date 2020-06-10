@@ -8,3 +8,37 @@
 66,47,36,61,67,82,33,73,23,80
 79,8,78,64,40,44,10,18,44,26
 95,90,21,31,86,54,26,4,88,86
+
+
+
+
+
+## 1、在当前分支下（一般是master分支），创建muscleape的本地分支分
+$ git checkout -b muscleape
+Switched to a new branch 'muscleape'
+
+## 2、将muscleape分支推送到远程
+$ git push origin muscleape
+Everything up-to-date
+
+## 3、将本地分支muscleape关联到远程分支muscleape上  
+$ git branch --set-upstream-to=origin/muscleape
+......
+......
+Branch 'muscleape' set up to track remote branch 'muscleape' from 'origin'
+
+## 4、查看本地分支和远程分支的映射关系
+$ git branch -vv
+muscleape         f938a3d8e9 [origin/muscleape: gone] 测试test
+
+## 5、查看远程分支
+$ git branch -r
+origin/muscleape
+
+## 6、查看本地各个分支目前最新的提交
+$ git branch -v
+muscleape         f938a3d8e9 测试test
+
+## 7、查看远程各个分支目前最新的提交
+$ git branch -r -v
+origin/muscleape         f938a3d8e9 测试test
